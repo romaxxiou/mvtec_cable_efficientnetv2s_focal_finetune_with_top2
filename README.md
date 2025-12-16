@@ -1,0 +1,1 @@
+# mvtec_cable_efficientnetv2s_focal_finetune_with_top2
